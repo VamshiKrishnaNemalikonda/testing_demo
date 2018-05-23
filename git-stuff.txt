@@ -1,0 +1,6 @@
+git init
+git add origin "<link to repo>" -> add a remote repo
+git pull
+git push
+
+master is always represents the latest code.
