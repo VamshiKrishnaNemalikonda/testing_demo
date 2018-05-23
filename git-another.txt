@@ -1,0 +1,4 @@
+git add -A
+git cocmmit -a -m "your comments"
+git branch firstbranch
+git checkout firstbranch
