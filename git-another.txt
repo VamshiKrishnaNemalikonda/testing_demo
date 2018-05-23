@@ -3,6 +3,7 @@ git cocmmit -a -m "your comments"
 git branch firstbranch
 git checkout firstbranch
 
+
 git merge firstbranch
 
 git fetch + git merge  = git pull 
@@ -10,3 +11,6 @@ git pull - > pull
 git fetch -> not connected
 
 git rebase
+
+git merge firstbranch
+
